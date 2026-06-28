@@ -1,0 +1,64 @@
+{
+  "name": "puppy-z4nx",
+  "version": "1.0.0",
+  "description": "Puppy-Z4nx - Personal Portfolio Website",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "*",
+    "@fortawesome/free-brands-svg-icons": "*",
+    "@fortawesome/free-regular-svg-icons": "*",
+    "@fortawesome/free-solid-svg-icons": "*",
+    "@fortawesome/react-fontawesome": "*",
+    "@tippyjs/react": "*",
+    "@vercel/speed-insights": "*",
+    "axios": "*",
+    "clsx": "*",
+    "framer-motion": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-icons": "*",
+    "react-markdown": "*",
+    "react-masonry-css": "*",
+    "react-router-dom": "*",
+    "react-scripts": "*",
+    "rehype-raw": "*",
+    "swiper": "*",
+    "tailwind-merge": "*",
+    "web-vitals": "*"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "prettier": "*",
+    "prettier-plugin-tailwindcss": "*",
+    "resolve-url-loader": "*",
+    "sass": "*",
+    "sass-loader": "*",
+    "tailwindcss": "^3.4.19"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
