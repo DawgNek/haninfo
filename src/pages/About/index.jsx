@@ -32,7 +32,7 @@ import { pageVariants, sectionVariants, containerVariants, itemVariants } from "
 import Cert1 from "../../assets/gallery/images1.jpg";
 import Cert2 from "../../assets/gallery/images2.jpg";
 import Cert3 from "../../assets/gallery/images3.jpg";
-import Cert4 from "../../assets/gallery/im4.jpg";
+import Cert4 from "../../assets/gallery/images4.jpg";
 import Cert5 from "../../assets/gallery/images5.jpg";
 function About() {
   // Nạp font Playfair Display từ Google Fonts (chỉ chạy 1 lần)
@@ -63,7 +63,9 @@ function About() {
   const certImages = [
     { src: Cert1, name: "Images 1" },
     { src: Cert2, name: "Images 2" },
-    { src: Cert3, name: "Images 3" }
+    { src: Cert3, name: "Images 3" },
+    { src: Cert4, name: "Images 4" },
+    { src: Cert5, name: "Images 5" }
   ];
 
   const favoriteVideos = [
