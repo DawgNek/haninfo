@@ -132,7 +132,7 @@ function UserInfo() {
             </h2>
             <div className="w-full h-1 bg-slate-700 rounded-sm my-1"></div>
             <div className="font-semibold text-justify">
-              I am Puppy-Z4nx (<span className="text-sm font-bold text-pink-600 dark:text-cyan-300">), a Software Developer focused on Reverse Engineering and Security Research. At the same time, I am pursuing the study of data structures and algorithms. I am interested in how systems operate internally, exploiting weaknesses and turning knowledge into practical experience.{" "}
+              I am ji_han (<span className="text-sm font-bold text-pink-600 dark:text-cyan-300">), a Software Developer focused on Reverse Engineering and Security Research. At the same time, I am pursuing the study of data structures and algorithms. I am interested in how systems operate internally, exploiting weaknesses and turning knowledge into practical experience.{" "}
               <Link className="text-slate-600 dark:text-slate-400 underline" to="/skills">
                 Wanna see more?
               </Link>{" "}
